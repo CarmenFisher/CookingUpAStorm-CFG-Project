@@ -1,1 +1,6 @@
-
+body{text-align:center;
+  font-family: verdana;
+    margin:20px 20px 20px 20px;
+    background: -webkit-linear-gradient(bottom right, rgb(255,255,255),rgb(178, 242, 236));}}
+h1 {font-family: Georgia;font-size: 50px;}
+<img class='img-responsive' style='width:100%;' />
