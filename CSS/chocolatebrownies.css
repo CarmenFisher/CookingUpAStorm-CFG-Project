@@ -1,0 +1,13 @@
+
+h1 {
+  color: white;
+  background: url("..images/chocolatebrownies.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 600px;
+}
+
+
+h2 {
+  font-style: italic;
+}
