@@ -1,6 +1,134 @@
-body{text-align:center;
-  font-family: verdana;
-    margin:20px 20px 20px 20px;
-    background: -webkit-linear-gradient(bottom right, rgb(255,255,255),rgb(178, 242, 236));}}
-h1 {font-family: Georgia;font-size: 50px;}
-<img class='img-responsive' style='width:100%;' />
+
+body{
+  padding-top:30px;
+  text-align: center;
+  margin:20px 20px 20px 20px;
+  background: -webkit-linear-gradient(bottom right, rgb(255,255,255),rgb(178, 242, 236));
+}
+  h1 {
+  font-family: georgia;
+  font-size: 50px;
+  text-align: center;
+  margin:20px 20px 20px 20px;
+}
+.img-responsive{
+        margin:0 auto;
+        padding-bottom: 20px;
+      }
+     a.centered {color: black;
+      font-size: 70px;
+  }
+
+
+.btn1 {
+  background-image: url('../Images/Gourmet.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 300px;
+  height: 300px;
+  padding: 15px 25px;
+  font-size: 40px;
+  font-weight:bold;
+  font-family: Rigatoni;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: rgb(255, 255,255);
+  -webkit-text-stroke: 1px rgba(0, 0, 51,0.45);
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+
+}
+
+.btn1:hover {color:black;}
+
+.btn1:active {
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.btn2 {
+  background-image: url('../Images/vegetables.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 300px;
+  height: 300px;
+  padding: 15px 25px;
+  font-size: 40px;
+  font-weight:bold;
+  font-family: Rigatoni;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: rgb(255, 255,255);
+  -webkit-text-stroke: 1px rgba(0, 0, 51,0.45);;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+
+}
+
+.btn2:hover {color:black;
+}
+
+.btn2:active {
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.btn3 {
+  background-image: url('../Images/StudentFood.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 300px;
+  height: 300px;
+  padding: 15px 25px;
+  font-size: 40px;
+  font-weight:bold;
+  font-family: Rigatoni;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: rgb(255, 255,255);
+  -webkit-text-stroke: 1px rgba(0, 0, 51,0.45);
+
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+
+}
+
+.btn3:hover {color:black;
+  }
+
+.btn3:active {
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+  .btn4 {
+    background-image: url('../Images/Cake.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    padding: 15px 25px;
+    font-size: 40px;
+    font-weight:bold;
+    font-family: Rigatoni;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: rgb(255, 255,255);
+    -webkit-text-stroke: 1px rgba(0, 0, 51,0.45);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+
+  }
+
+  .btn4:hover {color:black;
+}
+
+  .btn4:active {
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
