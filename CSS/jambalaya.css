@@ -1,13 +1,15 @@
 .jumbotron {
-  background-image: url('../Images/chocolatebrownies.jpg');
+  background-image: url('../Images/sausagejambalaya.jpg');
   background-size: cover;
   background-attachment: fixed;
+  background-position: center;
   min-height: 400px;
 }
 
 
 .container {
   color: white;
+  -webkit-text-stroke: 1px rgba(0, 0, 51, 0.45);
   text-align: center;
   vertical-align: center;
   font-size: 50px;
