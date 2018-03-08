@@ -2,7 +2,6 @@
 body{
   padding-top:30px;
   text-align: center;
-  margin:20px 20px 20px 20px;
   background: -webkit-linear-gradient(bottom right, rgb(255,255,255),rgb(178, 242, 236));
 }
   h1 {
@@ -21,7 +20,7 @@ body{
 
 
 .btn1 {
-  background-image: url('./Images/Gourmet.jpg');
+  background-image: url('../Images/Gourmet.jpg');
   background-repeat: no-repeat;
   background-position: center;
   width: 300px;
@@ -48,7 +47,7 @@ body{
   transform: translateY(4px);
 }
 .btn2 {
-  background-image: url('./Images/vegetables.jpg');
+  background-image: url('../Images/vegetables.jpg');
   background-repeat: no-repeat;
   background-position: center;
   width: 300px;
@@ -76,7 +75,7 @@ body{
   transform: translateY(4px);
 }
 .btn3 {
-  background-image: url('./Images/StudentFood.jpg');
+  background-image: url('../Images/StudentFood.jpg');
   background-repeat: no-repeat;
   background-position: center;
   width: 300px;
@@ -105,7 +104,7 @@ body{
   transform: translateY(4px);
 }
   .btn4 {
-    background-image: url('./Images/Cake.jpg');
+    background-image: url('../Images/Cake.jpg');
     background-repeat: no-repeat;
     background-position: center;
     width: 300px;
